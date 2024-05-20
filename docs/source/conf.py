@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Todd's Documentation Links'
+project = 'Todds Documentation Links'
 copyright = '2024 Todd H. Gardner'
 author = 'Todd H. Gardner'
 
